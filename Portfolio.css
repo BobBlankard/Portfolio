@@ -5,3 +5,8 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.paragraph1{
+  text-size: 12px;
+  position: center;
+}
